@@ -1,6 +1,6 @@
 Hi, I'm Victor,
 
-I'm a software and automation engeneer, but I'm not working on it right now. So, my projects here are only personal and for study. For a while...
+I'm a software and automation engeneer. My projects here are only personal and for study. For a while...
 
 You can find me here too. Send me a message.
 <p align="left">
@@ -12,7 +12,7 @@ You can find me here too. Send me a message.
 
 Olá, eu sou o Victor,
 
-Sou Engenheiro de Software e Automação, mas não estou atuando com isto no momento. Então, meus projetos aqui são apenas pessoais e para estudo. Por enquanto...
+Sou Engenheiro de Software e Automação. Meus projetos aqui são apenas pessoais e para estudo. Por enquanto...
 
 Me encontre tb aqui. Envie uma mensagem.
 <p align="left">
